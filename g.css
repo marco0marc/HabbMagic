@@ -1,0 +1,243 @@
+body{
+	background: url(i/background.png);
+	margin: 0;
+	color: #ffffff;
+	font-family: Tahoma;
+	font-size: 11px;
+}
+.wrapper{
+	width: 1000px;
+	margin: 0 auto 0 auto;
+	float: center;
+	overflow:hidden;
+}
+.topbar{
+	background: url(i/topbar.png);
+	height: 35px;
+	width: 100%;
+	padding: 17px 0 0 0;
+	font-weight: bold;
+}
+.topbar a{
+	margin: 0 0 0 22px;
+	text-decoration: none;
+	color: #ffffff;
+}
+.navigation{
+	width: 700px;
+	float: left;
+	padding: 0 0 0 0px;
+}
+.timezonebox{
+	width: 300px;
+	float: left;
+}
+.fhinfo a{
+	margin: 0 0 0 22px;
+}
+.header{
+	background: url(i/header.png);
+	width: 100%;
+	height: 134px;
+}
+.towers{
+	background: url(i/towers.png);
+	width: 964px;
+	height: 104px;
+	margin: 30px 0 0 0;
+}
+.bottombar{
+	background: url(i/bottombar.png);
+	width: 100%;
+	height: 33px;
+	padding: 0 0 0 0;
+}
+.djsays{
+	width: 750px;
+	float: left;
+	padding: 10px 0 0 0;
+	color: #ffffff;
+}
+.djsays b{
+	padding: 0 0 0 22px;
+}
+.mininav{
+	width: 250px;
+	height: 33px;
+	float: left;
+	font-weight: bold;
+	color: #ffffff;
+}
+.logobox{
+	width: 243px;
+	height: 49px;
+	margin: 0 0 0 9px;
+	float: left;
+}
+.logobox, .logo{
+	background: url(i/laga-iloveimg-resized.gif);
+	width: 252px ;
+	height: 49px ;
+}
+.mininav img{
+	float: left;
+	margin: 0 0 0 10px;
+}
+.hotel{
+	background: url(i/hotel.png);
+	width: 23px;
+	height: 28px;
+	margin: 4px 0 0 10px;
+	float: left;
+}
+.alert{
+	background: url(i/alert.png);
+	width: 31px;
+	height: 26px;
+	margin: 6px 0 0 10px;
+	float: left;
+}
+.message{
+	background: url(i/message.png);
+	width: 28px;
+	height: 23px;
+	margin: 9px 0 0 10px;
+	float: left;
+}
+.gaming{
+	background: url(i/gaming.png);
+	width: 25px;
+	height: 25px;
+	margin: 7px 0 0 10px;
+	float: left;
+}
+.adverts{
+	background: url(i/advert1.png);
+	width: 312px;
+	height: 83px;
+	float: right;
+	margin: -5px 0 0 0;
+}
+.leftside{
+	width: 252px;
+	float: left;
+}
+.leftbox{
+	width: 252px;
+	margin: 12px auto 0 auto;
+}
+.left-top{
+	background: url(i/left-top.png);
+	width: 252px;
+	height: 46px;
+	padding: 0 0 0 0;
+	margin: 0 auto 0 auto;
+}
+.left-middle{
+	background: url(i/left-mid.png);
+	width: 224px;
+	padding: 0 14px 0 14px;
+	margin: 0 auto 0 auto;
+	color: #888888;
+}
+.left-bottom{
+	background: url(i/left-bot.png);
+	width: 252px;
+	height: 11px;
+	margin: 0 auto 0 auto;
+}
+.middleside{
+	width: 500px;
+	float: left;
+	margin: 0 0 0 11px;
+}
+.middlebox{
+	width: 500px;
+	margin: 12px auto 0 auto;
+	float: left;
+}
+.middle-top{
+	background: url(i/middle-top.png);
+	width: 500px;
+	height: 46px;
+	padding: 0 0 0 0;
+	margin: 0 auto 0 auto;
+}
+.middle-middle{
+	background: url(i/middle-mid.png);
+	width: 472px;
+	padding: 0 14px 0 14px;
+	margin: 0 auto 0 auto;
+	color: #888888;
+}
+.middle-bottom{
+	background: url(i/middle-bot.png);
+	width: 500px;
+	height: 11px;
+	margin: 0 auto 0 auto;
+}
+.rightside{
+	width: 206px;
+	float: left;
+	margin: 0 0 0 11px;
+}
+.rightbox{
+	width: 206px;
+	margin: 12px auto 0 auto;
+	float: right;
+}
+.ipad{
+	background: url(i/ipad-flyhabbo.png);
+	width: 206px;
+	height: 277px;
+	margin: 0 auto 0 auto;
+}
+.icontent{
+	width: 134px;
+	height: 200px;
+	padding: 25px 0 0 24px;
+}
+.nextdj{
+	width: 135px;
+	padding: 17px 0 0 30px;
+	align: right;
+	text-align: center;
+}
+.imain{
+	width: 145px;
+	height: 153px;
+	margin: 37px 0 0 5px;
+	padding: 0 0 0 0;
+	font-weight: bold;
+	color: #5d7e94;
+	text-shadow: 1px 1px 0px #caeafe;
+}
+.imain img{
+	float: right;
+	margin: -40px -15px 0 0;
+}
+
+.admin{
+	color: #e93c3c;
+}
+
+.radiodj{
+	color: #37759f;
+}
+.clink, a{
+	color: #37759f;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.footer {
+background: url(i/footer.png);
+width: 100%;
+height: 52px;
+position: fixed;
+bottom: 0px;
+}
+
+.footertxt {
+margin: 21px 0 0 25px;
+}
